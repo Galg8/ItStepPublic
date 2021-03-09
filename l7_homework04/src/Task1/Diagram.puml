@@ -1,0 +1,40 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Task1
+interface FlashLightInterface
+class FlashLight
+class ChinaBattery
+
+Task1 <|-- FlashLightInterface
+FlashLightInterface <|-- FlashLight
+
+FlashLight <|- ChinaBattery
+
+
+class Task1 {
++main()
+}
+
+interface FlashLightInterface {
++switchLight();
++inputBattery(ChinaBattery battery);
+}
+
+class FlashLight {
+-light
+-battery
++switchLight()
++inputBattery()
+-isLight()
+-on()
+-off()
+}
+
+class ChinaBattery {
+-charge
++charge()
++getCharge()
+}
+
+@enduml

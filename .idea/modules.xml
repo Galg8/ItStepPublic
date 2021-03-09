@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ItStep_MyOOP.iml" filepath="$PROJECT_DIR$/ItStep_MyOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7_homework01/l7_homework01.iml" filepath="$PROJECT_DIR$/l7_homework01/l7_homework01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7_homework02/l7_homework02.iml" filepath="$PROJECT_DIR$/l7_homework02/l7_homework02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7_homework03/l7_homework03.iml" filepath="$PROJECT_DIR$/l7_homework03/l7_homework03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7_homework04/l7_homework04.iml" filepath="$PROJECT_DIR$/l7_homework04/l7_homework04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7_homework05/l7_homework05.iml" filepath="$PROJECT_DIR$/l7_homework05/l7_homework05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7_practise07/l7_practise07.iml" filepath="$PROJECT_DIR$/l7_practise07/l7_practise07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7_practise08/l7_practise08.iml" filepath="$PROJECT_DIR$/l7_practise08/l7_practise08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l8_homework01/l8_homework01.iml" filepath="$PROJECT_DIR$/l8_homework01/l8_homework01.iml" />
+    </modules>
+  </component>
+</project>
